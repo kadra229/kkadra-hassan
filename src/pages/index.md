@@ -8,7 +8,8 @@ email: kadrahassan229@gmail.com
 telephone: "(+25377868677)"
 skills:
 - nom: 'adobe '
-- poucentage: 0
+- poucentage: ''
+  nom: photographie
 
 ---
 #
