@@ -1,6 +1,6 @@
 ---
 layout: "../layouts/CVLayout.astro"
-titre: kadra hassan guelleh
+titre: kadra hassan guelleh KKKKKK
 image: "./images/kadrahassanguelleh.jpeg"
 fonction: business woman
 adresse: Balbala hodan
