@@ -2,7 +2,7 @@
 layout: "../layouts/CVLayout.astro"
 titre: kadra hassan guelleh KKKKKK
 image: "./images/kadrahassanguelleh.jpeg"
-fonction: business woman
+fonction: DESIGNER
 adresse: Balbala hodan
 email: kadrahassan229@gmail.com
 telephone: "(+25377868677)"
